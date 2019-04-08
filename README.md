@@ -1,6 +1,6 @@
 # Welcome Here
-1.I am **Chung Tsz Ting**,
-1.a new developer and also new to Github
+1. I am **Chung Tsz Ting**,
+1. a new developer and also new to Github
 
 ME | Description 
 ------------ | -------------
