@@ -12,3 +12,4 @@ Github | NEW
 - [ ] project milestone 2 on the time of 4/8
 
 *Enjoy your time!*
+<footer><p>{{ site.time }}</p></footer>
